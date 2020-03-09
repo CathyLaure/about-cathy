@@ -1,0 +1,26 @@
+h1 {
+	text-align: center;
+	font-family: sans-serif;
+	margin-bottom: 30px;
+	color: lightsalmon;
+}
+
+#balafon {
+	height: 400px;
+	width: 300px;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+body {
+	background-color: aqua;
+}
+div {
+	margin-top: 30px;
+	width: 360px;
+	text-align: left;
+	color: lightgray;
+
+}
