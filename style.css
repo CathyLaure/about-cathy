@@ -2,11 +2,11 @@ h1 {
 	text-align: center;
 	font-family: sans-serif;
 	margin-bottom: 30px;
-	color: lightsalmon;
+	color: white;
 }
 
 #balafon {
-	height: 400px;
+	height: 200px;
 	width: 300px;
 }
 .center {
@@ -15,12 +15,11 @@ h1 {
 	margin-right: auto;
 }
 body {
-	background-color: aqua;
+	background-color: maroon;
 }
 div {
-	margin-top: 30px;
-	width: 360px;
+	margin-top: 50px;
+	width: 300px;
 	text-align: left;
 	color: lightgray;
-
 }
